@@ -1,6 +1,6 @@
 package Task;
 import java.lang.Math;
-public class Math_Functions {
+public class Task1_Math_Functions {
     public static void main(String[] args) {
         {
             //equation -> ∛(x^2 + y^2 - |z|)
